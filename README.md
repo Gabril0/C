@@ -1,2 +1,2 @@
 # Random-Studies
-Random programs, probably for college
+Studies done in C language
